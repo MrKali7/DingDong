@@ -1,66 +1,13 @@
 {   
     "bot1": {
-        "source": "repo_link",
-        "branch": "master",
+        "source": "https://github.com/MrKali7/custompro1.git",
+        "branch": "main",
         "env": {
-            "TOKEN": ""
+            "API_HASH": "5f7d3dc656c008c70bffdf7f4f9b8ebb",
+            "APP_ID": "21863401",
+            "TG_BOT_TOKEN": "6748708552:AAEya6awhAuxwhR7ujfPWsko7j1GkCjPWjk",
+            "OWNER_ID": "6230356497"
         },
-        "run": "run.sh"
-    },
-    "bot2": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot3": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot4": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot5": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot6": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot7": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
-    },
-    "bot8": {
-        "source": "repo_link",
-        "branch": "master",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": "run.sh"
+        "run": "main.py"
     }
 }
