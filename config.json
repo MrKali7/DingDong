@@ -1,9 +1,9 @@
 {   
     "Link": {
-        "source": "https://github.com/MrKali7/custompro2.git",
+        "source": "https://github.com/MrKali7/custompro1.git",
         "branch": "main",
         "env": {
-            "TG_BOT_TOKEN": "7536000467:AAF5plbHtyo-Qii-fBWbAoaOWW08vBUmQRs"
+            "TG_BOT_TOKEN": "6748708552:AAEya6awhAuxwhR7ujfPWsko7j1GkCjPWjk"
         },
         "run": "main.py"
     },
