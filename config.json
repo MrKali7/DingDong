@@ -1,5 +1,5 @@
 {   
-    "Link": {
+    "bot1": {
         "source": "https://github.com/MrKali7/custompro1.git",
         "branch": "main",
         "env": {
@@ -7,7 +7,7 @@
         },
         "run": "main.py"
     },
-    "Pink": {
+    "bot2": {
         "source": "https://github.com/MrKali7/custompro3.git",
         "branch": "main",
         "env": {
